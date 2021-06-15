@@ -1,0 +1,3 @@
+include ':heartrateandroid'
+include ':app'
+rootProject.name = "HeartRateviaBT"
